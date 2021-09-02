@@ -7,3 +7,5 @@ Python horni.py
 # The way I installed ☺️
 `git clone https://github.com/royal78/keyboard_pymagic.git`
 `cd horni`
+#_Plese give me credit if you like it. 
+## You can Fork repo change sounds of needed.
