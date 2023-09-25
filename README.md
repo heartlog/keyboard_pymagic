@@ -1,4 +1,8 @@
-# keyboard_pymagic
+# This repo is replaced my new one
+Consider taking a look ! 
+https://github.com/heartlog/MusicKeyboard
+
+## keyboard_pymagic
 Just a hentai sounds keyboard player ....
 😳⊙﹏⊙
 ## download it and git clone it
